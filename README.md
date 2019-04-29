@@ -1,6 +1,7 @@
 # Basic Terminal Commands
 
 ## Notes
+
 - In many examples, you will see a `$` to signify that you should type the rest of the line into the terminal. You do not type the `$`.
 - `# text here` -> comment (instructions, don’t type)
 - `.` -> the current directory
@@ -9,7 +10,7 @@
 - `<content>` -> Fill this in!!
 - `[content]` -> This is optional
 
-## Commands
+### Commands
 *Note: for the following commands, you do not type the brackets, they indicate a placeholder. You do not type the $ either, that is to indicate you are on the command line.*
 
 ```sh
