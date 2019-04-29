@@ -1,6 +1,4 @@
-## Basic Terminal Commands
-
-----------------
+# Basic Terminal Commands
 
 ## Notes
 - In many examples, you will see a `$` to signify that you should type the rest of the line into the terminal. You do not type the `$`.
