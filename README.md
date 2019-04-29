@@ -1,5 +1,3 @@
-# § Basic Terminal Commands
-
 ## Basic Terminal Commands
 
 ----------------
